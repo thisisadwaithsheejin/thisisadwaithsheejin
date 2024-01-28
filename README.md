@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thisisadwaithsheejin
-- 🌱 I’m currently learning Front end development 
+- 🌱 I’m a Backend Developer trainee ! 
 - 📫 you can reach me on Linkedin , Github , instagram & Facebook . 
 - The only time success comes before work is in the dictionary.
 <!---
